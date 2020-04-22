@@ -42,6 +42,9 @@
 	<key>UIRequiredDeviceCapabilities</key>
 	<array>
 		<string>armv7</string>
+		<string>accelerometer</string>
+		<string>gyroscope</string>
+		<string>magnetometer</string>
 	</array>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
