@@ -1,5 +1,7 @@
 # Motif
 
+![](Preview%20Images/Icon.png)
+
 A simple motion sensor data recorder for iPhone. Written with SwiftUI.
 
 ## Features
@@ -25,3 +27,13 @@ Built on Xcode 11.3.1 and tested on iOS 13.3.1.
 
 ## License
 MIT license.
+
+## Previews
+
+![](Preview%20Images/Record.png)
+
+![](Preview%20Images/Recording.png)
+
+![](Preview%20Images/Samples.png)
+
+![](Preview%20Images/Sample_Detail.jpg)
