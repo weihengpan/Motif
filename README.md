@@ -1,6 +1,6 @@
 # Motif
 
-<img src="Preview%20Images/Icon.png" style="zoom:50%;" />
+<img src="Preview%20Images/Icon.png" width=250 />
 
 A simple motion sensor data recorder for iPhone. Written with SwiftUI.
 
@@ -30,10 +30,10 @@ MIT license.
 
 ## Previews
 
-<img src="Preview%20Images/Record.png" style="zoom:33%;" />
+<img src="Preview%20Images/Record.png" width=300 />
 
-<img src="Preview%20Images/Recording.png" style="zoom:33%;" />
+<img src="Preview%20Images/Recording.png" width=300 />
 
-<img src="Preview%20Images/Samples.png" style="zoom:33%;" />
+<img src="Preview%20Images/Samples.png" width=300 />
 
-<img src="Preview%20Images/Sample_Detail.jpg" style="zoom:33%;" />
+<img src="Preview%20Images/Sample_Detail.jpg" width=300 />
